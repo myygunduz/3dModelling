@@ -5,7 +5,7 @@
 
 ### [Click](https://www.youtube.com/watch?v=c-OLgEPQwnE) for Result Video
 
-[![Image](https://img.youtube.com/vi/c-OLgEPQwnE/0.jpg)](https://www.youtube.com/watch?v=c-OLgEPQwnE)
+[![Image](https://github.com/myygunduz/3dModelling/blob/main/%231/preview.png)](https://www.youtube.com/watch?v=c-OLgEPQwnE)
 
 ---
 
